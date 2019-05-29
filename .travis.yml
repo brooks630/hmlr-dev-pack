@@ -14,7 +14,7 @@ script:
 before_deploy:
  - npm install -g vsce
  - vsce package
- - find . -type f -name 'hmlr-dev-pack*.vsix' -exec mv {} hmlr-dev-pack.vsix
+ - find . -type f -name 'hmlr-dev-pack*.vsix' -exec mv {} hmlr-dev-pack.vsix \;
 
 cache:
   directories:
