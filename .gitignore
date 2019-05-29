@@ -1,3 +1,6 @@
 .vscode
 .vscodeignore
 *.vsix
+
+# Specifically include the renamed built file so that gitlab pages will deploy it
+!hmlr-dev-pack.vsix
