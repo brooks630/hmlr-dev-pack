@@ -1,0 +1,20 @@
+{
+    "name": "hmlr-dev-pack",
+    "publisher": "hmlr",
+    "displayName": "HM Land Registry Development Pack",
+    "description": "A collection of common extensions for Visual Studio Code recommended for developers at HM Land Registry",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "vscjava.vscode-java-pack",
+        "Pivotal.vscode-boot-dev-pack",
+        "naco-siren.gradle-language",
+        "kevinkyang.auto-comment-blocks",
+        "aaron-bond.better-comments"
+    ]
+}
