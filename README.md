@@ -4,7 +4,7 @@ This project contains a VSCode extension pack to install a number of helpful ext
 
 ## Download Link
 
-The extension pack can be downloaded from https://brooks630.github.io/hmlr-dev-pack/hmlr-dev-pack.vsix. To install, follow the instructions below:
+The extension pack can be downloaded from <https://brooks630.github.io/hmlr-dev-pack/hmlr-dev-pack.vsix>. To install, follow the instructions below:
 
 * Open VSCode and navigate to the Extensions view (Ctrl-Shift-X)
 * Click the drop-down at the top and "Install from VSIX"
