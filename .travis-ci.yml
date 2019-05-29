@@ -16,7 +16,7 @@ before_deploy:
  - vsce package
  - find . -name "hmlr-dev-pack*.vsix" -exec mv '{}' hmlr-dev-pack.vsix
 
-cache: 
+cache:
   directories:
     - "node_modules"
 
